@@ -67,23 +67,23 @@ Get information about the [Marine Gunnery Sergeant John David Fry Scholarship (F
 
 The following types of programs and courses may be used under the Post-9/11 GI Bill:
 
-- [Correspondence training]({{ site.url }}/education/work-learn/non-traditional/correspondence-training/)
-- [Cooperative training]({{ site.url }}/education/work-learn/co-op-training/)
-- [Entrepreneurship training]({{ site.url }}/education/training-testing-licensing/entrepreneurship-training/)
-- [Flight training]({{ site.url }}/education/training-testing-licensing/flight-training/)
-- [Independent and distance learning]({{site.url}}/education/work-learn/non-traditional/independent-distance-learning/)
-- [Institutions of higher learning undergraduate and graduate degrees]({{site.url}}/education/gi-bill/higher-learning/)
-- [Licensing and certification reimbursement]({{ site.url }}/education/training-testing-licensing/licensing-certification/)
-- [Vocational/technical training and non-college degree programs]({{ site.url }}/education/work-learn/non-college-degree-program/)
-- [National testing reimbursement]({{ site.url }}/education/training-testing-licensing/national-testing-program/)
-- [On-the-job training]({{ site.url }}/education/work-learn/job-and-apprenticeship/)
-- [Tuition Assistance Top-Up]({{ site.url }}/education/gi-bill/tuition-assistance/)
-- [Tutorial Assistance]({{ site.url }}/education/gi-bill/tutorial-assistance/)
+- [Correspondence training](/education/work-learn/non-traditional/correspondence-training/)
+- [Cooperative training](/education/work-learn/co-op-training/)
+- [Entrepreneurship training](/education/training-testing-licensing/entrepreneurship-training/)
+- [Flight training](/education/training-testing-licensing/flight-training/)
+- [Independent and distance learning](/education/work-learn/non-traditional/independent-distance-learning/)
+- [Institutions of higher learning undergraduate and graduate degrees](/education/gi-bill/higher-learning/)
+- [Licensing and certification reimbursement](/education/training-testing-licensing/licensing-certification/)
+- [Vocational/technical training and non-college degree programs](/education/work-learn/non-college-degree-program/)
+- [National testing reimbursement](/education/training-testing-licensing/national-testing-program/)
+- [On-the-job training](/education/work-learn/job-and-apprenticeship/)
+- [Tuition Assistance Top-Up](/education/gi-bill/tuition-assistance/)
+- [Tutorial Assistance](/education/gi-bill/tutorial-assistance/)
 </div>
 </div>
 
 <div class="small-12 columns" markdown="1">#### Learn more
-- See the current [payment rates]({{site.url}}/education/rates/) for the Post-9/11 GI Bill.
+- See the current [payment rates](/education/rates/) for the Post-9/11 GI Bill.
 - Read the [Post-9/11 GI Bill](http://www.benefits.va.gov/gibill/docs/pamphlets/ch33_pamphlet.pdf) pamphlet.
 - See [Frequently Asked Questions (FAQ)](https://gibill.custhelp.com/app/answers/detail/a_id/523).
 

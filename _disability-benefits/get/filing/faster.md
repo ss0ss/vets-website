@@ -43,7 +43,7 @@ See our [DBQ Frequently Asked Questions](http://www.benefits.va.gov/COMPENSATION
 
 DBQs help support VA's Fully Developed Claims (FDC) program. DBQs are valuable for claims processing because they provide medical information that is relevant to determining a disability rating. When submitted with a [Fully Developed Claim](http://benefits.va.gov/transformation/fastclaims/), DBQs ensure VA's rating specialists have precisely the information they need to start processing the claim.
 
-If you’re an active-duty Servicemember, you can initiate a [predischarge claim]({{ site.url }}/disability-benefits/claims-process/claim-types/pre-discharge/).
+If you’re an active-duty Servicemember, you can initiate a [predischarge claim](/disability-benefits/claims-process/claim-types/pre-discharge/).
 
 </div>
 
