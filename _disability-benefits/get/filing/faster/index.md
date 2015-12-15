@@ -1,5 +1,4 @@
 ---
-layout: page-disability
 title: Fully Developed Claims
 concurrence: incomplete
 source: http://www.benefits.va.gov/compensation/dbq_disabilityexams.asp

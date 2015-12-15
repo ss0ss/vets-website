@@ -1,5 +1,4 @@
 ---
-layout: page-disability
 title: Get Help Filing a Claim
 concurrence: incomplete
 template: 6-info-page
