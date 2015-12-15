@@ -8,7 +8,7 @@ template: 6-info-page
 <div class="action-bar">
   <div class="row">
     <div class="small-12 columns">
-      <a class="usa-button-primary" href="{{ site.url}}/disability-benefits/get/">Apply for Disability Benefits</a>
+      <a class="usa-button-primary" href="/disability-benefits/get/">Apply for Disability Benefits</a>
     </div>
   </div>
 </div>
@@ -22,11 +22,11 @@ Choose one of three ways:
 
 1.	Apply online, using [eBenefits]( https://www.ebenefits.va.gov/ebenefits/about/feature?feature=disability-compensation), or
 
-2.	Get help from an [accredited representative]({{ site.url}}/disability-benefits/get/filing/help/index.html), or
+2.	Get help from an [accredited representative](/disability-benefits/get/filing/help/index.html), or
 
 3.	Go to a [VA regional office](http://www.benefits.va.gov/benefits/offices.asp) and have a VA employee assist you.
 
-**Note:** Active-duty Servicemembers should learn about [predischarge claims]({{ site.url}}/disability-benefits/claims-process/claim-types/pre-discharge/index.html).
+**Note:** Active-duty Servicemembers should learn about [predischarge claims](/disability-benefits/claims-process/claim-types/pre-discharge/index.html).
 
 
 
